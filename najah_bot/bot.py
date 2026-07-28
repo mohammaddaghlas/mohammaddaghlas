@@ -411,7 +411,7 @@ def main():
     """الدالة الرئيسية"""
     import os
     
-    token = os.getenv('TELEGRAM_BOT_TOKEN')
+    token = "8937034906:AAGez184aYpJkuK1VaU_CGO7u6PcPbaCG4A"
     
     if not token:
         print("❌ خطأ: يرجى设置 متغير البيئة TELEGRAM_BOT_TOKEN")
